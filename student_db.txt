@@ -1,0 +1,1 @@
+{'01': "\tStudent Name: 'Wagh Manish D' \n\tCGPA: '7.5' \n\tTotal Credit Completed: '52' \n\tDate of Registration: '23 July, 2013' \n\tSession ends: 'June 2018'"}
